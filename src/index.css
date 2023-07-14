@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dice-radius:hover {
+  box-shadow: 1px 1px 53px 21px rgba(82, 255, 168, 0.48);
+  -webkit-box-shadow: 1px 1px 53px 21px rgba(82, 255, 168, 0.48);
+  -moz-box-shadow: 1px 1px 53px 21px rgba(82, 255, 168, 0.48);
+}
